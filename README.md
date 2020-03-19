@@ -1,5 +1,5 @@
 # randomquotegenerator
-A web application that will provide a random quots. My quotes were gathered by looking up "inspirational quotes on Reddit". 
+A web application that will provide a random quotes. My quotes were gathered by looking up "inspirational quotes on Reddit". 
 
 # Instructions 
 Press the button and you will be provided by a random quote, maybe inspirational, maybe it'll give you a laugh. Who cares, enjoy it. 
